@@ -30,7 +30,8 @@ Note: This article **DOESN'T** cover the steps for the micro businesses [Home bu
 ## Steps:
 If you have the prerequisites figured out, here are the REAL steps.
 1. Head over to the [KBC license services portal](https://mociweb01.csc.gov.kw/MociKBC/WebPages/index.aspx) and click on `طلب تأسيس شركة أشخاص` and fill out the form. You will need to:
-    - Declare the type of Activity (نشاط الشركة) your company will do from the list [you can select multiple activities but they have to all be under the same main section(قطاع)].
+    - Declare the type of Activity (نشاط الشركة) your company will do from the list.  
+    > you can select multiple activities but they have to all be under the same main section(قطاع). but be aware that later on you will pay a fee for each activity and it might include more paperwork, if you are in a hurry pick only the most important one then add the rest later.
     - Provide **5 names** [In Arabic] which **SHOULD** include the name of the company activity (نشاط الشركة) in them [example: لومي لابز للحلول المتكاملة الحاسوبية] in the order of preference.
     - Declare company capital (رأس مال الشركة), minimum is **KD1000** for most activities but some are more, it'll show you an error if you picked an invalid amount.
 > They seem to turn off the system every weekend (Thursday evening till Sunday morning) saying it's under maintenance 🤷🏽‍♂️ so you need to do everything on week days.
@@ -56,5 +57,8 @@ If you have the prerequisites figured out, here are the REAL steps.
 - Company Register (السجل التجاري) [Can get from the same website].
 - PACI Number (رقم آلي) [Should be written in the contract].
 - Office Rental Receipt.
+
+8. Wait a couple of days [or maybe Immediately, not sure] and go to the `طباعة كتب الجهات الرقابية` section, there might be some more paperwork to be done depending on which activities you picked, if there are any documents to be processed there then print them [I was told they need to be printed in Colors] and head over to KBC again to get them signed then you have to take each document to where it needs to go [Mine for example was one for the Ministry of Media and another for CITRA, take a copy of everything you have with you just in case including the **Company Register** and your **College Certificate**]. 
+
 
 ===== TBC
