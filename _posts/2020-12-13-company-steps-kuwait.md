@@ -31,7 +31,7 @@ Note: This article **DOESN'T** cover the steps for the micro businesses [Home bu
 If you have the prerequisites figured out, here are the REAL steps.
 1. Head over to the [KBC license services portal](https://mociweb01.csc.gov.kw/MociKBC/WebPages/index.aspx) and click on `طلب تأسيس شركة أشخاص` and fill out the form. You will need to:
     - Declare the type of Activity (نشاط الشركة) your company will do from the list.  
-    > you can select multiple activities but they have to all be under the same main section(قطاع). but be aware that later on you will pay a fee for each activity and it might include more paperwork, if you are in a hurry pick only the most important one then add the rest later.
+    > you can select multiple activities but they have to all be under the same main section(قطاع). but be aware that later on you will pay a fee for each activity and it might include more paperwork, if you are in a hurry pick only the most important one then add the rest later, you can check which activities needs approvals by going to the `الإستعلام عن الأنشطة` section.
     - Provide **5 names** [In Arabic] which **SHOULD** include the name of the company activity (نشاط الشركة) in them [example: لومي لابز للحلول المتكاملة الحاسوبية] in the order of preference.
     - Declare company capital (رأس مال الشركة), minimum is **KD1000** for most activities but some are more, it'll show you an error if you picked an invalid amount.
 > They seem to turn off the system every weekend (Thursday evening till Sunday morning) saying it's under maintenance 🤷🏽‍♂️ so you need to do everything on week days.
