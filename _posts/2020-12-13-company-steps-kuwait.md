@@ -45,7 +45,7 @@ If you have the prerequisites figured out, here are the REAL steps.
 5. After it's approved, you'd need to head over to the [KBC building in Ishbiliya](https://goo.gl/maps/Xug3DoPbBb4eEqdLA) with your company establishment request number (رقم طلب عقد التأسيس) and your KNet 💳 and talk to the **Ministry of Justice** representative.
     - You'll pay **KD10** via KNet for stamps.
     - You'll have to sign the Company Establishment Contract (عقد التأسيس) (3 copies).
-    - Officially it says you need to also pay **7KD** as fees, but I didn't pay that (or at least I don't remember paying that).
+    - Officially it says you need to also pay **KD7** as fees, but I didn't pay that (or at least I don't remember paying that).
     - You'll get a copy of the signed contract and they will take one (Actually they took 2, but one of them didn't have stamps on it).
     > You should be able to retrieve your Company register (السجل التجاري) from [the website](https://mociweb01.csc.gov.kw/MociKBC/WebPages/index.aspx) by clicking on `الخدمة الآلية لإصدار السجل التجاري` but you won't need it till after you get the office.
     
@@ -60,5 +60,34 @@ If you have the prerequisites figured out, here are the REAL steps.
 
 8. Wait a couple of days [or maybe Immediately, not sure] and go to the `طباعة كتب الجهات الرقابية` section, there might be some more paperwork to be done depending on which activities you picked, if there are any documents to be processed there then print them [I was told they need to be printed in Colors] and head over to KBC again to get them signed then you have to take each document to where it needs to go [Mine for example was one for the Ministry of Media and another for CITRA, take a copy of everything you have with you just in case including the **Company Register** and your **College Certificate**]. 
 
+9. Now you need to finish the process with each place, as soon as you get the approval from them head over to the KBC website and click on `إصدار ترخيص و دفع الرسوم` section, you'd need to pay **KD87** 😩 and you should be able to print it from them.
+> I suggest that you print this and hang it on your office as soon as are done, I waited one day and I got a rejection message from [PACI](https://www.paci.gov.kw) due to missing license on the door, if that happened you'd need to visit them.
+
+10. Technically you finished getting the license, but there are other things needed
+- Sign up for Chamber of commerce (costs **KD82**) not sure if it's required but I did.
+- Visit [PACI](https://www.paci.gov.kw) [In person] and register your company there properly, do that just in case there was a miscommunication between them and MOCI.
+
+Congratulations, now you have your company officially registered in Kuwait, if you want to hire or register yourself under the company then continue reading on the Bonus chapter, if not then you should be done !
+
+## Bonus
+If you want to be able to hire employees and/or register yourself under the company (to also get the allowance دعم العمالة) then this part is for you.
+
+> This part can get messy, things kept on changing while I was doing it so comment if your experience was different than mine.
+
+1. Head over to the e-forms section of the website of the [Public Authority of Manpower](https://e-forms.manpower.gov.kw/E-Forms/faces/Welcome) and click on `بوابة النماذج الإلكترونية` then on `طلب فتح ملف جديد لصاحب عمل`.
+> The website is very annoying, it refused to accept my clicks, I kept on changing the font size on website till it worked, try it with different browsers if it didn't work for you.
+
+2. Fill the form and you should be getting a PDF to sign, sign it and then go to `إقرار صحة بيانات الطلب` and upload it over there with any required documents. You'd need to have a printed version with you because you are gonna go to them physically [Note that you need to visit them in less than a week from doing this, if you waited longer then you'd have to do it again...].
+
+3. Where you go depends on your area, mine was in Hawalli so I had to go to that branch of Public Authority of Manpower, specifically to the computer department [الحاسب الالي] where you'll finish up the registration and digitally sign.
+
+4. After you are done you'll need to pay KD25 somewhere over there (not sure what that place was called) and then you'd be done with this and should be able to print the proof of signature (اعتماد توقيع) which you'll need later on.
+
+5. Now you need to register yourself under the company [On this site](https://www.manpower.gov.kw/Comp_RegisterNew.aspx). I only registered myself as fifth section (باب خامس) so dunno what's the process for the rest, the 3d section (باب ثالث) is for local hires, not sure what's the case for expats.
+
+6. You'll also need to register for this new ["Ashal" service](https://e-portal.manpower.gov.kw/PamAshalPortalApp/) which you'd use to register the employees.
+> I had an issue while trying to register myself that the only jobs available were driver, tea-boy, and janitor. I went to so many places trying to fix it but somehow it fixed itself after a week.
+
+7. You'd need to register yourself here by filling all the documents under `طلب إشعار تسجيل عمالة وطنية` and then waiting for them to approve/disapprove it.
 
 ===== TBC
